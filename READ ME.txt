@@ -1,0 +1,2 @@
+The files in the folder are used as an example on how to use GitHub
+
